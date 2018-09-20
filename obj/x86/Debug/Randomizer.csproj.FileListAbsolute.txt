@@ -1,0 +1,7 @@
+C:\Users\TEMP.VLO30-11.013\AppData\Local\Temporary Projects\Randomizer\bin\Debug\Randomizer.exe
+C:\Users\TEMP.VLO30-11.013\AppData\Local\Temporary Projects\Randomizer\bin\Debug\Randomizer.pdb
+C:\Users\TEMP.VLO30-11.013\AppData\Local\Temporary Projects\Randomizer\obj\x86\Debug\Randomizer.Form1.resources
+C:\Users\TEMP.VLO30-11.013\AppData\Local\Temporary Projects\Randomizer\obj\x86\Debug\Randomizer.Properties.Resources.resources
+C:\Users\TEMP.VLO30-11.013\AppData\Local\Temporary Projects\Randomizer\obj\x86\Debug\Randomizer.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-11.013\AppData\Local\Temporary Projects\Randomizer\obj\x86\Debug\Randomizer.exe
+C:\Users\TEMP.VLO30-11.013\AppData\Local\Temporary Projects\Randomizer\obj\x86\Debug\Randomizer.pdb
